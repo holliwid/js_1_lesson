@@ -1,0 +1,16 @@
+.buttons{
+    width: 100%;
+    text-align: center;
+}
+
+.buttons button{
+    display: inline-block;
+}
+
+ol{
+    text-align:center;
+}
+
+li{
+    display: block;
+}
